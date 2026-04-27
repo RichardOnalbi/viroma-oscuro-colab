@@ -1,0 +1,9 @@
+Referencia,Pais,Region,Ecosistema,Generos,Familias virales,Virus/contigs sin clasificacion,Porcentaje citable,Tipo de dato,Mensaje clave,DOI,SRA
+Hoyos-Lopez 2025,Colombia,"Caribe colombiano: Cordoba, Sucre, Bolivar, Magdalena","humedales, manglares y zonas agropecuarias","Mansonia, Coquillettidia, Anopheles, Culex",22.0,24.0,44.7,exact,24 virus ARN sin clasificacion ICTV; Ma. titillans 17/38 = 44.7%.,10.1590/0074-02760250131,PRJNA1251058
+Hernandez-Valencia 2025,Colombia,tres ecorregiones colombianas,ecorregiones contrastantes con Anopheles darlingi,Anopheles,,,55.8,exact,48.9% Ortervirales no clasificados + 6.9% virus no clasificados.,10.1371/journal.pone.0320593,
+Gomez-Palacio 2025,Colombia,valles interandinos del norte,ambientes no urbanos,Culicinae,,,,qualitative,La mayoria de contigs virales de alta confianza permanecio sin clasificar.,10.1371/journal.pone.0331552,PRJNA1199888
+Gomez 2023,Colombia,Orinoquia colombiana,Orinoco,Culicidae,,,,partial,ISVs dominantes; fraccion no clasificada no reportada explicitamente.,10.1038/s41598-023-49232-9,
+Aragao 2023,Brasil,transicion Amazonia-Cerrado-Caatinga,ecotono norte-nordeste,Culicidae,,2.0,,qualitative,"15 genomas virus-like, todos divergentes de referencias; 2 contigs Riboviria sp.",10.3390/genes14071443,
+Da Silva 2024,Brasil,nordeste de Brasil,mosquitos silvestres,Culicidae,16.0,,,qualitative,Alta diversidad; mayoria de secuencias corresponde a nuevas especies virales.,10.1128/jvi.00083-24,
+Maia 2024,Brasil,"Cerrado, Minas Gerais",Cerrado,Culicidae,7.0,7.0,63.6,exact,7 de 11 virus casi completos fueron nuevos.,10.3390/v16081276,
+Da Silva 2021,Brasil,neotropico brasileno,Mansoniini,"Mansonia, Coquillettidia",,,,partial,Secuencias viral-like divergentes en Mansoniini.,10.1016/j.virusres.2021.198455,

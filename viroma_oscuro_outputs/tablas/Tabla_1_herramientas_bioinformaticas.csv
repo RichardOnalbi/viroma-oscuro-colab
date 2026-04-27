@@ -1,0 +1,5 @@
+Herramienta,Principio,Fortaleza,Limite,Uso en articulo
+BLAST / DIAMOND,homologia de secuencia,"rapido, reproducible y preciso cuando hay referencias cercanas",pierde sensibilidad frente a virus altamente divergentes o no representados,paradigma convencional aplicado en estudios neotropicales
+MEGAN / MEGANizer,asignacion taxonomica por LCA,resume lecturas/contigs en categorias taxonomicas interpretables,depende de hits previos y de taxonomia disponible,explica la distincion entre read clasificado y virus sin clasificacion ICTV
+HMMscan / perfiles RdRP,motivos conservados y perfiles de familias proteicas,mejor sensibilidad que alineamiento simple para dominios conservados,requiere perfiles entrenados y puede fallar ante supergrupos nuevos,puente entre homologia tradicional y modelos semanticos
+LucaProt,modelo de lenguaje proteico sobre RdRP,detecta senales semanticas/funcionales no capturadas por homologia directa,demanda computacional y falta validacion especifica en Culicidae neotropicales,"perspectiva metodologica, no sustituto automatico de validacion experimental"

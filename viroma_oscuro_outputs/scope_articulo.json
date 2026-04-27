@@ -1,0 +1,23 @@
+{
+  "tipo": "articulo de reflexion",
+  "revista": "Acta Biologica Colombiana",
+  "tema": "viroma oscuro de Culicidae neotropicales",
+  "argumento_central": "La fraccion no clasificada no es solo ruido tecnico ni falta de profundidad de secuenciacion; refleja limites del analisis por homologia frente a virus altamente divergentes.",
+  "foco_geografico": [
+    "Colombia",
+    "Brasil"
+  ],
+  "comparacion_metodologica": [
+    "DIAMOND/BLAST + MEGAN/MEGANizer",
+    "modelos de lenguaje proteico / LucaProt como perspectiva"
+  ],
+  "productos": [
+    "dataset bibliografico curado",
+    "Tabla 1: herramientas y limites metodologicos",
+    "Tabla 2: estudios/ecosistemas y brechas de deteccion",
+    "Figura 1: mapa + barras de evidencia neotropical",
+    "Figura 2: pipeline convencional vs aumentado con IA",
+    "Figura 3: comparativo del viroma oscuro",
+    "resumen tecnico para Claude"
+  ]
+}
